@@ -10,4 +10,4 @@ end;
 if (game.PlaceId == 2788229376) then
 	loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/ff0850aeaef1c7f649d5bd3acf995976.lua"))()
 end;
-loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/9d86ca5713fcc3d793c377fbbd93fdf6.lua"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/5e0225ad1ab8668fb102acc2a4e64bc9.lua"))()
