@@ -8,6 +8,6 @@ if (identifyexecutor() == "Wave") then
 	end;	
 end;
 if (game.PlaceId == 2788229376) then
-	loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/18167a704b494688866bd5f3aa9da862.lua"))()
+	loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/ff0850aeaef1c7f649d5bd3acf995976.lua"))()
 end;
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/9d86ca5713fcc3d793c377fbbd93fdf6.lua"))()
