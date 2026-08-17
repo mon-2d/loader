@@ -2,7 +2,7 @@ if (getgenv().UC_LOADED) then
     return;
 end;
 getgenv().UC_LOADED = true;
-if (game.PlaceId == 2788229376) then
+if (game.GameId == 1008451066) then
     loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/ff0850aeaef1c7f649d5bd3acf995976.lua" ))()
 end;
 if (game.GameId == 6035872082) then
